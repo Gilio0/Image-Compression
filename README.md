@@ -1,2 +1,2 @@
 # Image-Compression
-Image Compression with MATLAB
+Image Compression and decompression with MATLAB using fourier transform and inverse fourier transform
